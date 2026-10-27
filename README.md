@@ -6,6 +6,13 @@ Users browse movies, pick a showtime, choose seats on an interactive seat map, p
 > Academic project — B.Tech Computer Science (Artificial Intelligence), 3rd year.
 > All movies, theatres and people in the demo data are **fictional**. No real money is ever charged.
 
+| | |
+| --- | --- |
+| **GitHub repository** | <https://github.com/gracie-projects/imovie> |
+| **Author** | [gracie-projects](https://github.com/gracie-projects) |
+| **Contact** | [en24cs3010628@medicaps.ac.in](mailto:en24cs3010628@medicaps.ac.in) |
+| **Live demo** | Not deployed yet. See [Deployment](#deployment). |
+
 ---
 
 ## Table of contents
@@ -473,17 +480,17 @@ Create a free cluster and a database user, allow access from your API host (or `
 - **Alternative (separate domains):** set `VITE_API_URL=https://your-api.onrender.com/api` on Vercel and `COOKIE_SAMESITE=none` on the backend. Some browsers block third-party cookies, so the rewrite approach is more reliable.
 - Netlify works the same way with a `_redirects` file (`/api/*  https://your-api.onrender.com/api/:splat  200` and `/*  /index.html  200`).
 
-**4. Publish to GitHub**
+**4. Source code**
+
+The project is published at <https://github.com/gracie-projects/imovie>. To get a fresh copy:
 
 ```bash
-git add .
-git commit -m "IMovies: full-stack movie ticket booking platform"
-git branch -M main
-git remote add origin https://github.com/<your-username>/imovies.git
-git push -u origin main
+git clone https://github.com/gracie-projects/imovie.git
+cd imovie
+npm run install:all
 ```
 
-`.env` files, `node_modules` and build output are already git-ignored. Double-check with `git status` before the first push.
+`.env` files, `node_modules` and build output are git-ignored, so after cloning create `backend/.env` from `backend/.env.example` as described in [Getting started](#getting-started).
 
 ## Troubleshooting
 

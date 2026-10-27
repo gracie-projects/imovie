@@ -40,10 +40,13 @@ export default function Footer() {
             <h2 className="h6 text-white mb-3">Project</h2>
             <ul className="list-unstyled small d-grid gap-2">
               <li className="d-flex align-items-center gap-2">
-                <FiMail aria-hidden="true" /> <span>contact: your-email@example.com</span>
+                <FiMail aria-hidden="true" /> <a href="mailto:en24cs3010628@medicaps.ac.in">en24cs3010628@medicaps.ac.in</a>
               </li>
               <li className="d-flex align-items-center gap-2">
-                <FiGithub aria-hidden="true" /> <span>Repository link: add yours in the README</span>
+                <FiGithub aria-hidden="true" />{' '}
+                <a href="https://github.com/gracie-projects/imovie" target="_blank" rel="noreferrer">
+                  github.com/gracie-projects/imovie
+                </a>
               </li>
             </ul>
           </div>
