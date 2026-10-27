@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Kingdom of Ash poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#200122"/><stop offset="1" stop-color="#ff6a00"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ffd29d" stop-opacity=".9"/><stop offset="1" stop-color="#ffd29d" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<circle cx="280" cy="170" r="60" fill="#ffd29d" fill-opacity=".8"/><path d="M0 470 L120 260 L190 360 L260 220 L400 470 Z" fill="#000" fill-opacity=".55"/><path d="M240 250 L260 220 L282 255 Z" fill="#ffd29d"/>
+<rect width="400" height="600" fill="url(#fade)"/>
+<g font-family="'Bebas Neue','Oswald','Arial Narrow',Arial,sans-serif"><text x="200" y="414" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">KINGDOM OF</text><text x="200" y="470" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">ASH</text></g>
+<text x="200" y="356" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="17" fill="#ffd29d">From the fire, a legend.</text>
+<text x="200" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#fff" fill-opacity=".75">DIRECTED BY MARTA LINDQVIST</text>
+<text x="200" y="566" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#fff" fill-opacity=".5">IMOVIES DEMO · FICTIONAL TITLE</text>
+</svg>

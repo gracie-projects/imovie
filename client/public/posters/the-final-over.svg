@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="The Final Over poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#134e5e"/><stop offset="1" stop-color="#71b280"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<ellipse cx="200" cy="420" rx="230" ry="70" fill="#ffffff" fill-opacity=".2"/><rect x="185" y="240" width="8" height="140" fill="#ffffff"/><rect x="200" y="240" width="8" height="140" fill="#ffffff"/><rect x="215" y="240" width="8" height="140" fill="#ffffff"/><circle cx="300" cy="170" r="16" fill="#c0392b" stroke="#ffffff" stroke-width="2"/>
+<rect width="400" height="600" fill="url(#fade)"/>
+<g font-family="'Bebas Neue','Oswald','Arial Narrow',Arial,sans-serif"><text x="200" y="414" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">THE FINAL</text><text x="200" y="470" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">OVER</text></g>
+<text x="200" y="356" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="17" fill="#ffffff">Six balls to rewrite history.</text>
+<text x="200" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#fff" fill-opacity=".75">DIRECTED BY NITESH KUMAR</text>
+<text x="200" y="566" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#fff" fill-opacity=".5">IMOVIES DEMO · FICTIONAL TITLE</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Shadows of Calcutta poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1a1a"/><stop offset="1" stop-color="#8a6d3b"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#f5c46b" stop-opacity=".9"/><stop offset="1" stop-color="#f5c46b" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<rect x="190" y="120" width="8" height="330" fill="#000" fill-opacity=".6"/><circle cx="194" cy="120" r="22" fill="#f5c46b"/><path d="M194 130 L80 460 H310 Z" fill="#f5c46b" fill-opacity=".18"/>
+<rect width="400" height="600" fill="url(#fade)"/>
+<g font-family="'Bebas Neue','Oswald','Arial Narrow',Arial,sans-serif"><text x="200" y="414" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">SHADOWS OF</text><text x="200" y="470" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">CALCUTTA</text></g>
+<text x="200" y="356" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="17" fill="#f5c46b">Every Sunday, a new clue.</text>
+<text x="200" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#fff" fill-opacity=".75">DIRECTED BY SRIJIT BANERJEE</text>
+<text x="200" y="566" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#fff" fill-opacity=".5">IMOVIES DEMO · FICTIONAL TITLE</text>
+</svg>

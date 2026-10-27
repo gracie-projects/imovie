@@ -1,0 +1,19 @@
+{
+  "name": "imovies",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IMovies – full-stack movie ticket booking platform (React + Express + MongoDB)",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix client",
+    "dev": "concurrently -n api,web -c red,cyan \"npm run dev --prefix backend\" \"npm run dev --prefix client\"",
+    "start": "npm start --prefix backend",
+    "build": "npm run build --prefix client",
+    "seed": "npm run seed --prefix backend",
+    "create-admin": "npm run create-admin --prefix backend",
+    "test": "npm test --prefix backend && npm test --prefix client",
+    "lint": "npm run lint --prefix backend && npm run lint --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.5"
+  }
+}

@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Environment files and secrets (keep the .env.example files)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials.json
+service-account*.json
+
+# Build output
+dist/
+build/
+client/dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Test coverage and reports
+coverage/
+test-results/
+playwright-report/
+
+# Local database files and dumps
+data/db/
+*.mongodb
+dump/
+*.bson
+*.archive
+*.agz
+
+# Local tool cache
+.vite/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Temporary files
+tmp/
+*.tmp

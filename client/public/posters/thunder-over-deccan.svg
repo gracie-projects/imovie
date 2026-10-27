@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Thunder Over Deccan poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3e1f00"/><stop offset="1" stop-color="#c0392b"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ffc857" stop-opacity=".9"/><stop offset="1" stop-color="#ffc857" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<path d="M230 80 L140 300 H205 L160 480 L280 240 H215 L260 80 Z" fill="#ffc857"/><path d="M0 500 Q200 440 400 500 V600 H0Z" fill="#000" fill-opacity=".5"/>
+<rect width="400" height="600" fill="url(#fade)"/>
+<g font-family="'Bebas Neue','Oswald','Arial Narrow',Arial,sans-serif"><text x="200" y="424" text-anchor="middle" font-size="42" font-weight="800" letter-spacing="2" fill="#fff">THUNDER OVER</text><text x="200" y="470" text-anchor="middle" font-size="42" font-weight="800" letter-spacing="2" fill="#fff">DECCAN</text></g>
+<text x="200" y="376" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="17" fill="#ffc857">The earth shakes for justice.</text>
+<text x="200" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#fff" fill-opacity=".75">DIRECTED BY S. KORATALA</text>
+<text x="200" y="566" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#fff" fill-opacity=".5">IMOVIES DEMO · FICTIONAL TITLE</text>
+</svg>

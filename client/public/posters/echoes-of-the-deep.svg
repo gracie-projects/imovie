@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Echoes of the Deep poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#001510"/><stop offset="1" stop-color="#00bf8f"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#b8fff0" stop-opacity=".9"/><stop offset="1" stop-color="#b8fff0" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<path d="M0 200 Q50 170 100 200 T200 200 T300 200 T400 200" fill="none" stroke="#b8fff0" stroke-width="2.5" stroke-opacity="0.85"/><path d="M0 238 Q50 208 100 238 T200 238 T300 238 T400 238" fill="none" stroke="#b8fff0" stroke-width="2.5" stroke-opacity="0.75"/><path d="M0 276 Q50 246 100 276 T200 276 T300 276 T400 276" fill="none" stroke="#b8fff0" stroke-width="2.5" stroke-opacity="0.6499999999999999"/><path d="M0 314 Q50 284 100 314 T200 314 T300 314 T400 314" fill="none" stroke="#b8fff0" stroke-width="2.5" stroke-opacity="0.5499999999999999"/><path d="M0 352 Q50 322 100 352 T200 352 T300 352 T400 352" fill="none" stroke="#b8fff0" stroke-width="2.5" stroke-opacity="0.44999999999999996"/><path d="M0 390 Q50 360 100 390 T200 390 T300 390 T400 390" fill="none" stroke="#b8fff0" stroke-width="2.5" stroke-opacity="0.35"/><path d="M0 428 Q50 398 100 428 T200 428 T300 428 T400 428" fill="none" stroke="#b8fff0" stroke-width="2.5" stroke-opacity="0.2499999999999999"/>
+<rect width="400" height="600" fill="url(#fade)"/>
+<g font-family="'Bebas Neue','Oswald','Arial Narrow',Arial,sans-serif"><text x="200" y="414" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">ECHOES OF</text><text x="200" y="470" text-anchor="middle" font-size="52" font-weight="800" letter-spacing="2" fill="#fff">THE DEEP</text></g>
+<text x="200" y="356" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="17" fill="#b8fff0">Listen to the ocean.</text>
+<text x="200" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#fff" fill-opacity=".75">DIRECTED BY INES DUARTE</text>
+<text x="200" y="566" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#fff" fill-opacity=".5">IMOVIES DEMO · FICTIONAL TITLE</text>
+</svg>

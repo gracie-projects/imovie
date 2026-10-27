@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600" role="img" aria-label="Paper Boats poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2193b0"/><stop offset="1" stop-color="#6dd5ed"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#ffffff" stop-opacity=".9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".85"/></linearGradient>
+</defs>
+<rect width="400" height="600" fill="url(#bg)"/>
+<path d="M120 330 L200 210 L280 330 Z" fill="#ffffff"/><path d="M90 340 H310 L270 390 H130 Z" fill="#ffffff" fill-opacity=".85"/><path d="M0 410 Q100 380 200 410 T400 410 V600 H0Z" fill="#fff" fill-opacity=".18"/>
+<rect width="400" height="600" fill="url(#fade)"/>
+<g font-family="'Bebas Neue','Oswald','Arial Narrow',Arial,sans-serif"><text x="200" y="470" text-anchor="middle" font-size="42" font-weight="800" letter-spacing="2" fill="#fff">PAPER BOATS</text></g>
+<text x="200" y="422" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="17" fill="#ffffff">Small boat. Big city. Bigger heart.</text>
+<text x="200" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#fff" fill-opacity=".75">DIRECTED BY LUCIA MORENO</text>
+<text x="200" y="566" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#fff" fill-opacity=".5">IMOVIES DEMO · FICTIONAL TITLE</text>
+</svg>
